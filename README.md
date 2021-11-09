@@ -4,4 +4,4 @@
 # -See completed todos
 # -See uncompleted todos.
 # -Check completed task and delete todo
-# -Get saved todos in local storage to display on the sceen when user open the todo-app.
+# -Save todos list to the local storage and get saved todos in local storage to display on the sceen when user open the todo-app.
